@@ -24,7 +24,7 @@
 
 # In[305]:
 
-!pip install faker
+pip install faker
 
 import faker
 import uuid
